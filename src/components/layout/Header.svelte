@@ -2,6 +2,7 @@
 	let isNavbar = false;
 
 	const toggleNavbar = () => {
+		console.log("toggle navbar")
 		isNavbar = !isNavbar
 	}
 </script>
